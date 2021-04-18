@@ -1,0 +1,7 @@
+Nature erreur/Aard fout;Code erreur/Foutcode;Omschrijving;Libellé
+B;100101;Recordtype niet numeriek.;Type d'enregistrement non numérique
+B;100103;Recordtype niet toegelaten.;Type d'enregistrement non autorisé
+B;100110;Recordtype 10 en volgnummer record ? 000001.;Enregistrement de type 10 et numéro d'ordre de l'enregistrement ? de 000001
+B;100111;Recordtype 10 niet gevolgd door een recordtype 20.;Enregistrement de type 10 non suivi par un enregistrement de type 20
+B;100201;Volgnummer record niet numeriek.;Numéro d'ordre de l'enregistrement non numérique
+B;100203;Volgnummer record niet toegelaten.;Numéro d'ordre de l'enregistrement non autorisé
